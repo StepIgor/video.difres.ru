@@ -1,2 +1,2 @@
-# video.difres.ru
- Svelte web-application
+## Video
+[Open the application](https://video.difres.ru)
